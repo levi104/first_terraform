@@ -1,1 +1,10 @@
+#ignore key files
+mnadolkey.pub
+key.tf
 
+#ignore tfvars files
+terraform.tfvars
+
+#ignore
+terraform.tfstate
+terraform.tfstate.backup 
