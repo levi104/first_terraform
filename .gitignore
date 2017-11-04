@@ -1,6 +1,6 @@
 #ignore key files
+mnadolkey
 mnadolkey.pub
-key.tf
 
 #ignore tfvars files
 terraform.tfvars
