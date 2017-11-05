@@ -1,3 +1,4 @@
+#add comment on github
 #VPC settings
 # Internet VPC
 resource "aws_vpc" "mnadol-VPC" {
