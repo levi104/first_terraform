@@ -1,5 +1,3 @@
-#add comment on github
-#VPC settings
 # Internet VPC
 resource "aws_vpc" "mnadol-VPC" {
     cidr_block = "10.0.0.0/16"
